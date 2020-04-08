@@ -1,2 +1,5 @@
 # firedb.js
-Fire Db
+
+```js
+const
+```

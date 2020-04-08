@@ -23,7 +23,7 @@ db.subtract("fire.add",-1)
 db.set("fire.okey", 22);
 db.push("fire.array", 32);
 db.get("fire"); // {"okey": 22, "array": [32]}
-\\\
+```
 # news
 
 > - bugs fixed

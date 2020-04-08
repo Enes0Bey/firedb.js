@@ -1,4 +1,4 @@
-![](https://img.shields.io/npm/dw/firedb.js)
+![](https://img.shields.io/npm/dt/firedb.js)
 
 # firedb.js
 
@@ -11,7 +11,7 @@
 
 - new is the subtract and add function
 
-- [Support Server](https://discord.gg/mDGwytw)
+> - [Support Server](https://discord.gg/mDGwytw)
  ```js
 
 const db = require("firedb.js");
@@ -22,4 +22,3 @@ db.set("fire.okey", 22);
 db.push("fire.array", 32);
 db.get("fire"); // {"okey": 22, "array": [32]}```
 
-> Test

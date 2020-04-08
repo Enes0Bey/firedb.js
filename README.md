@@ -26,8 +26,8 @@ db.get("fire"); // {"okey": 22, "array": [32]}
 ```
 # news
 
-> - bugs fixed
+> bugs fixed
 
-> - note veriler.json file you must create
+> note veriler.json file you must create
 
-> - new is the subtract and add function
+> new is the subtract and add function

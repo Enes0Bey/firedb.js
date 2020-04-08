@@ -1,0 +1,2 @@
+# firedb.js
+Fire Db

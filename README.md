@@ -1,9 +1,9 @@
 ![](https://img.shields.io/npm/dt/firedb.js)
 
 # install
-`
+```
 > **npm install firedb.js**
-`
+```
 
 
 # example
